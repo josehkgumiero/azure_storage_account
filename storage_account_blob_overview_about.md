@@ -1,0 +1,21 @@
+# Blob Storage About 
+- Serving images or documents directly to a browser.
+- Storing files for distributed access.
+- Streaming video and audio.
+- Writing to log files.
+- Storing data for backup and restore, disaster recovery, and archiving.
+- Storing data for analysis by an on-premises or Azure-hosted service.
+- Users or client applications can access objects in Blob Storage via HTTP/HTTPS, from anywhere in the world.
+- Objects in Blob Storage are accessible via the Azure Storage REST API, Azure PowerShell, Azure CLI, or an Azure Storage client library. 
+- Client libraries are available for different languages, including:
+    - Azure Storage REST API
+    - Azure Poweshell
+    - Azure CLI
+    - .NET
+    - Java
+    - Node.js
+    - Python
+    - Go
+    - PHP
+    - Ruby
+    - SSH File Transfer Protocol (SFTP)
