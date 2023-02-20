@@ -28,8 +28,8 @@
 
 - Storage Account Endpoints - [storage_account_overview_endpoints.md](storage_account_overview_endpoints.md)
 
-- Standard Endpoints - [storage_account_overview_endpoints_standards.md](storage_account_overview_endpoints_standards.md)
+- Storage Account Standard Endpoints - [storage_account_overview_endpoints_standards.md](storage_account_overview_endpoints_standards.md)
 
-- Azure DNS Zone Endpoints - [storage_account_overview_endpoints_dns.md](storage_account_overview_endpoints_dns.md)
+- Storage Account Azure DNS Zone Endpoints - [storage_account_overview_endpoints_dns.md](storage_account_overview_endpoints_dns.md)
 
 - Storage Account Biling - [storage_account_overview_biling.md](storage_account_overview_biling.md)
