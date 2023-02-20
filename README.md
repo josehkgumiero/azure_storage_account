@@ -20,73 +20,73 @@
 
 # Storage Account Overview
 
-- Storage Account Overview - [storage_account_overview.md](storage_account_overview.md)
+- Storage Account Overview - [/Documentation/storage_account_overview.md](/Documentation/storage_account_overview.md)
 
-- Storage Account Types - [storage_account_overview_types.md](storage_account_overview_types.md)
+- Storage Account Types - [/Documentation/storage_account_overview_types.md](/Documentation/storage_account_overview_types.md)
 
-- Storage Account Name - [storage_account_overview_name.md](storage_account_overview_name.md)
+- Storage Account Name - [/Documentation/storage_account_overview_name.md](/Documentation/storage_account_overview_name.md)
 
-- Storage Account Endpoints - [storage_account_overview_endpoints.md](storage_account_overview_endpoints.md)
+- Storage Account Endpoints - [/Documentation/storage_account_overview_endpoints.md](/Documentation/storage_account_overview_endpoints.md)
 
-- Storage Account Standard Endpoints - [storage_account_overview_endpoints_standards.md](storage_account_overview_endpoints_standards.md)
+- Storage Account Standard Endpoints - [/Documentation/storage_account_overview_endpoints_standards.md](/Documentation/storage_account_overview_endpoints_standards.md)
 
-- Storage Account Azure DNS Zone Endpoints - [storage_account_overview_endpoints_dns.md](storage_account_overview_endpoints_dns.md)
+- Storage Account Azure DNS Zone Endpoints - [/Documentation/storage_account_overview_endpoints_dns.md](/Documentation/storage_account_overview_endpoints_dns.md)
 
-- Storage Account Biling - [storage_account_overview_biling.md](storage_account_overview_biling.md)
+- Storage Account Biling - [/Documentation/storage_account_overview_biling.md](/Documentation/storage_account_overview_biling.md)
 
 # Authorization
 
-- Authorize Accesss To Data In Azure Storage - [storage_account_authorize.md](storage_account_authorize.md)
+- Authorize Accesss To Data In Azure Storage - [/Documentation/storage_account_authorize.md](/Documentation/storage_account_authorize.md)
 
-- Storage Account Authorization Operations - [storage_account_authorize_operations.md](storage_account_authorize_operations.md)
+- Storage Account Authorization Operations - [/Documentation/storage_account_authorize_operations.md](/Documentation/storage_account_authorize_operations.md)
 
-- Protect your access keys - [storage_account_authorize_protect_keys.md](storage_account_authorize_protect_keys.md)
+- Protect your access keys - [/Documentation/storage_account_authorize_protect_keys.md](/Documentation/storage_account_authorize_protect_keys.md)
 
-- Authorize Access To Blobs Using Azure Active Directory - [storage_account_authorize_ad.md](storage_account_authorize_ad.md)
+- Authorize Access To Blobs Using Azure Active Directory - [/Documentation/storage_account_authorize_ad.md](/Documentation/storage_account_authorize_ad.md)
 
-- Azure AD For Blobs Overview - [storage_account_authorize_ad_overview.md](storage_account_authorize_ad_overview.md)
+- Azure AD For Blobs Overview - [/Documentation/storage_account_authorize_ad_overview.md](/Documentation/storage_account_authorize_ad_overview.md)
 
-- Authorize Access To Blobs Using Azure Active Directory - [storage_account_authorize_ad.md](storage_account_authorize_ad.md)
+- Authorize Access To Blobs Using Azure Active Directory - [/Documentation/storage_account_authorize_ad.md](/Documentation/storage_account_authorize_ad.md)
 
-- Assign Azure roles for access rights - [storage_account_authorize_assign_roles.md](storage_account_authorize_assign_roles.md)
+- Assign Azure roles for access rights - [/Documentation/storage_account_authorize_assign_roles.md](/Documentation/storage_account_authorize_assign_roles.md)
 
-- Resource scope - [storage_account_authorize_resource_scope.md](storage_account_authorize_resource_scope.md)
+- Resource scope - [/Documentation/storage_account_authorize_resource_scope.md](/Documentation/storage_account_authorize_resource_scope.md)
 
-- Azure built-in roles for blobs - [storage_account_authorize_built_in_roles.md](storage_account_authorize_built_in_roles.md)
+- Azure built-in roles for blobs - [/Documentation/storage_account_authorize_built_in_roles.md](/Documentation/storage_account_authorize_built_in_roles.md)
 
-- Authorize with Shared Key - [storage_account_authorize_shared_key.md](storage_account_authorize_shared_key.md)
+- Authorize with Shared Key - [/Documentation/storage_account_authorize_shared_key.md](/Documentation/storage_account_authorize_shared_key.md)
 
-- Delegate access by using a shared access signature - [storage_account_authorize_sas.md](storage_account_authorize_sas.md)
+- Delegate access by using a shared access signature - [/Documentation/storage_account_authorize_sas.md](/Documentation/storage_account_authorize_sas.md)
 
-- Types of shared access signatures - [storage_account_authorize_sas_type.md](storage_account_authorize_sas_type.md)
+- Types of shared access signatures - [/Documentation/storage_account_authorize_sas_type.md](/Documentation/storage_account_authorize_sas_type.md)
 
 # Security
 
-- Security Recommendations For Blob Storage - [storage_account_security.md](storage_account_security.md)
+- Security Recommendations For Blob Storage - [/Documentation/storage_account_security.md](/Documentation/storage_account_security.md)
 
-- Data Protection - [storage_account_security_data_protection.md](storage_account_security_data_protection)md)
+- Data Protection - [/Documentation/storage_account_security_data_protection.md](/Documentation/storage_account_security_data_protection)md)
 
-- Identity And Access Management - [storage_account_security_identity_and_management.md](storage_account_security_identity_and_management)
+- Identity And Access Management - [/Documentation/storage_account_security_identity_and_management.md](/Documentation/storage_account_security_identity_and_management)
 
-- Networking - [storage_account_security_networking.md](storage_account_security_networking)
+- Networking - [/Documentation/storage_account_security_networking.md](/Documentation/storage_account_security_networking)
 
-- Logging/Monitoring - [storage_account_security_logging_monitoring.md](storage_account_security_logging_monitoring)
+- Logging/Monitoring - [/Documentation/storage_account_security_logging_monitoring.md](/Documentation/storage_account_security_logging_monitoring)
 
 
 # Monitoring
 
-- Azure Blob Storage Monitoring- [storage_account_monitoring.md](storage_account_monitoring.md)
+- Azure Blob Storage Monitoring - [/Documentation/storage_account_monitoring.md](/Documentation/storage_account_monitoring.md)
 
-- Monitoring overview page in Azure portal - [storage_account_monitoring_overview.md](storage_account_monitoring_overview.md)
+- Monitoring overview page in Azure portal - [/Documentation/storage_account_monitoring_overview.md](/Documentation/storage_account_monitoring_overview.md)
 
-- Azure Monitor - [storage_account_monitoring_azure_monitor.md](storage_account_monitoring_azure_monitor.md)
+- Azure Monitor - [/Documentation/storage_account_monitoring_azure_monitor.md](/Documentation/storage_account_monitoring_azure_monitor.md)
 
-- Monitoring Data - [storage_account_monitoring_data.md](storage_account_monitoring_data.md)
+- Monitoring Data - [/Documentation/storage_account_monitoring_data.md](/Documentation/storage_account_monitoring_data.md)
 
-- Collection and Routing - [storage_account_monitoring_collection.md](storage_account_monitoring_collection.md)
+- Collection and Routing - [/Documentation/storage_account_monitoring_collection.md](/Documentation/storage_account_monitoring_collection.md)
 
-- Destination Limitations - [storage_account_monitoring_destinations.md](storage_account_monitoring_destinations.md)
+- Destination Limitations - [/Documentation/storage_account_monitoring_destinations.md](/Documentation/storage_account_monitoring_destinations.md)
 
-- Analyzing Logs - [storage_account_monitoring_analyzing_logs.md](storage_account_monitoring_analyzing_logs.md)
+- Analyzing Logs - [/Documentation/storage_account_monitoring_analyzing_logs.md](/Documentation/storage_account_monitoring_analyzing_logs.md)
 
-- Alerts - [storage_account_monitoring_alerts.md](storage_account_monitoring_alerts.md)
+- Alerts - [/Documentation/storage_account_monitoring_alerts.md](/Documentation/storage_account_monitoring_alerts.md)
