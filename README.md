@@ -2,7 +2,7 @@
 
 # Blob Storage Overview
 
-- Blob Storage Introduction - [/Documentation/storage_account_blob_overview_introduction.md](/Documentation/sstorage_account_blob_overview_introduction.md)
+- Blob Storage Introduction - [/Documentation/storage_account_blob_overview_introduction](/Documentation/sstorage_account_blob_overview_introduction)
 
 - Blob Storage About - [storage_account_blob_overview_about.md](storage_account_blob_overview_about.md)
 
