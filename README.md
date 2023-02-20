@@ -34,6 +34,32 @@
 
 - Storage Account Biling - [storage_account_overview_biling.md](storage_account_overview_biling.md)
 
+# Authorization
+
+- Authorize Accesss To Data In Azure Storage - [storage_account_authorize.md](storage_account_authorize.md)
+
+- Storage Account Authorization Operations - [storage_account_authorize_operations.md](storage_account_authorize_operations.md)
+
+- Protect your access keys - [storage_account_authorize_protect_keys.md](storage_account_authorize_protect_keys.md)
+
+- Authorize Access To Blobs Using Azure Active Directory - [storage_account_authorize_ad.md](storage_account_authorize_ad.md)
+
+- Azure AD For Blobs Overview - [storage_account_authorize_ad_overview.md](storage_account_authorize_ad_overview.md)
+
+- Authorize Access To Blobs Using Azure Active Directory - [storage_account_authorize_ad.md](storage_account_authorize_ad.md)
+
+- Assign Azure roles for access rights - [storage_account_authorize_assign_roles.md](storage_account_authorize_assign_roles.md)
+
+- Resource scope - [storage_account_authorize_resource_scope.md](storage_account_authorize_resource_scope.md)
+
+- Azure built-in roles for blobs - [storage_account_authorize_built_in_roles.md](storage_account_authorize_built_in_roles.md)
+
+- Authorize with Shared Key - [storage_account_authorize_shared_key copy.md](storage_account_authorize_shared_key copy.md)
+
+- Delegate access by using a shared access signature - [storage_account_authorize_sas.md](storage_account_authorize_sas.md)
+
+- Types of shared access signatures - [storage_account_authorize_sas_type.md](storage_account_authorize_sas_type.md)
+
 # Monitoring
 
 - Azure Blob Storage Monitoring- [storage_account_monitoring.md](storage_account_monitoring.md)
