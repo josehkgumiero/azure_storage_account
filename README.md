@@ -76,10 +76,17 @@
 # Monitoring
 
 - Azure Blob Storage Monitoring- [storage_account_monitoring.md](storage_account_monitoring.md)
+
 - Monitoring overview page in Azure portal - [storage_account_monitoring_overview.md](storage_account_monitoring_overview.md)
+
 - Azure Monitor - [storage_account_monitoring_azure_monitor.md](storage_account_monitoring_azure_monitor.md)
+
 - Monitoring Data - [storage_account_monitoring_data.md](storage_account_monitoring_data.md)
+
 - Collection and Routing - [storage_account_monitoring_collection.md](storage_account_monitoring_collection.md)
+
 - Destination Limitations - [storage_account_monitoring_destinations.md](storage_account_monitoring_destinations.md)
+
 - Analyzing Logs - [storage_account_monitoring_analyzing_logs.md](storage_account_monitoring_analyzing_logs.md)
+
 - Alerts - [storage_account_monitoring_alerts.md](storage_account_monitoring_alerts.md)
