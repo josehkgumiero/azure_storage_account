@@ -1,0 +1,3 @@
+# Monitoring overview page in Azure portal
+
+The Overview page in the Azure portal for each Blob storage resource includes a brief view of the resource usage, such as requests and hourly billing. This information is useful, but only a small amount of the monitoring data is available. Some of this data is collected automatically and is available for analysis as soon as you create the resource. You can enable additional types of data collection with some configuration.
