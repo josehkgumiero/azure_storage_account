@@ -4,19 +4,19 @@
 
 - Blob Storage Introduction - [/Documentation/storage_account_blob_overview_introduction.md](/Documentation/storage_account_blob_overview_introduction.md)
 
-- Blob Storage About - [storage_account_blob_overview_about.md](storage_account_blob_overview_about.md)
+- Blob Storage About - [/Documentation/storage_account_blob_overview_about.md](/Documentation/storage_account_blob_overview_about.md)
 
-- Azure Data Lake Gen 2 About - [storage_account_blob_overview_data_lake_gen_2.md](storage_account_blob_overview_data_lake_gen_2.md)
+- Azure Data Lake Gen 2 About - [/Documentation/storage_account_blob_overview_data_lake_gen_2.md](/Documentation/storage_account_blob_overview_data_lake_gen_2.md)
 
-- Blob Storage Resources - [storage_account_blob_overview_resources.md](storage_account_blob_overview_resources.md)
+- Blob Storage Resources - [/Documentation/storage_account_blob_overview_resources.md](/Documentation/storage_account_blob_overview_resources.md)
 
-- Storage accounts - [storage_account_blob_overview_resources_storage_account.md](storage_account_blob_overview_resources_storage_account.md)
+- Storage accounts - [/Documentation/storage_account_blob_overview_resources_storage_account.md](/Documentation/storage_account_blob_overview_resources_storage_account.md)
 
-- Containers - [storage_account_blob_overview_resources_container.md](storage_account_blob_overview_resources_container.md)
+- Containers - [/Documentation/storage_account_blob_overview_resources_container.md](/Documentation/storage_account_blob_overview_resources_container.md)
 
-- Blobs - [storage_account_blob_overview_resources_blob.md](storage_account_blob_overview_resources_blob.md)
+- Blobs - [/Documentation/storage_account_blob_overview_resources_blob.md](/Documentation/storage_account_blob_overview_resources_blob.md)
 
-- Move data to Blob Storage - [storage_account_blob_overview_move_data.md](storage_account_blob_overview_move_data.md)
+- Move data to Blob Storage - [/Documentation/storage_account_blob_overview_move_data.md](/Documentation/storage_account_blob_overview_move_data.md)
 
 # Storage Account Overview
 
