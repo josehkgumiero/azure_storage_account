@@ -60,6 +60,19 @@
 
 - Types of shared access signatures - [storage_account_authorize_sas_type.md](storage_account_authorize_sas_type.md)
 
+# Security
+
+- Security Recommendations For Blob Storage - [storage_account_security.md](storage_account_security.md)
+
+- Data Protection - [storage_account_security_data_protection.md](storage_account_security_data_protection)md)
+
+- Identity And Access Management - [storage_account_security_identity_and_management.md](storage_account_security_identity_and_management)
+
+- Networking - [storage_account_security_networking.md](storage_account_security_networking)
+
+- Logging/Monitoring - [storage_account_security_logging_monitoring.md](storage_account_security_logging_monitoring)
+
+
 # Monitoring
 
 - Azure Blob Storage Monitoring- [storage_account_monitoring.md](storage_account_monitoring.md)
