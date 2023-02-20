@@ -54,7 +54,7 @@
 
 - Azure built-in roles for blobs - [storage_account_authorize_built_in_roles.md](storage_account_authorize_built_in_roles.md)
 
-- Authorize with Shared Key - [storage_account_authorize_shared_key copy.md](storage_account_authorize_shared_key copy.md)
+- Authorize with Shared Key - [storage_account_authorize_shared_key.md](storage_account_authorize_shared_key.md)
 
 - Delegate access by using a shared access signature - [storage_account_authorize_sas.md](storage_account_authorize_sas.md)
 
