@@ -1,10 +1,10 @@
 # Storage Account Biling
 
-#####
+######
 
 Azure Storage bills based on your storage account usage. All objects in a storage account are billed together as a group. Storage costs are calculated according to be the following factors:
 
-#####
+######
 
 - Region refers to the geographical region in which your account is based.
 - Account type refers to the type of storage account you are using.
