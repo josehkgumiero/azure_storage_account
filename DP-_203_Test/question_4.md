@@ -4,9 +4,9 @@ Scenario: You have created a storage account name using a standardized naming co
 
 Your teammate is concerned with this practice because the name of a storage account must be [?].
 
-a) Globally unique
-b) Unique within your Azure Subscription
-c) Unique ithin tthe conaining resource group
-d) NOne of the listed options
+- a) Globally unique
+- b) Unique within your Azure Subscription
+- c) Unique ithin tthe conaining resource group
+- d) None of the listed options
 
 Correct: A

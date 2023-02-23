@@ -6,9 +6,9 @@ As the expert consultant, the team looks to you for direction.
 
 Which should you advise them to use?
 
-a) Azure Queue
-b) Azure Files
-c) Azure Table
-d) Azure Blob
+- a) Azure Queue
+- b) Azure Files
+- c) Azure Table
+- d) Azure Blob
 
 Correct: B

@@ -2,7 +2,7 @@ Scenario: You are working in the sales department of a company and part of your 
 
 Is Azure Blob storage a good choice for this data?
 
-a) Yes
-b) No
+- a) Yes
+- b) No
 
 Corect: No

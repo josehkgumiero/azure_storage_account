@@ -2,9 +2,9 @@ Scenario: To access data in your company storage account, your client makes requ
 
 Which service ensures that the client has the permissions required to access the data.
 
-a) RBAC
-b) Vault
-c) Private Link
-d) Azure AD
+- a) RBAC
+- b) Vault
+- c) Private Link
+- d) Azure AD
 
 Correct: A

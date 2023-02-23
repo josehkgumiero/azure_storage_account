@@ -2,11 +2,11 @@ Azure Storage provides a REST API to work with the containers and data stored in
 
 Which are Azure Storage supported languages and frameworks? (Select all that apply)
 
-a) Java
-b) Python
-c) .NET
-d) Go
-e) C#
-f) Node.js
+- a) Java
+- b) Python
+- c) .NET
+- d) Go
+- e) C#
+- f) Node.js
 
 Correct: A, B, C, D, E, F

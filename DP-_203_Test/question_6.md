@@ -2,9 +2,9 @@ Scenario: You are working on a project and have begun creating an Azure Data Lak
 
 Which option should you configure when creating the storage account?
 
-a) On the networking tab, set the hierarchical namespace to on.
-b) On the advanced tab, set the hierarchica namespace to enabled.
-c) ON the basic tab, set the perormance option to on.
-d) On he basic tab, set the performance option to standard.
+- a) On the networking tab, set the hierarchical namespace to on.
+- b) On the advanced tab, set the hierarchica namespace to enabled.
+- c) ON the basic tab, set the perormance option to on.
+- d) On he basic tab, set the performance option to standard.
 
 Correct: B

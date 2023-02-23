@@ -2,12 +2,12 @@ Azure Storage accounts are the base storage type within Azure. Azure Storage off
 
 Which of the following are Azure Storage configuration options? (Select all that apply
 
-a) Azure FIle
-b) Azure COsmosDB
-c) Azure Data Lake
-d) Aure Queue
-e) Azure Table
-f) Azure Blob
-g) Azure Databae Server
+- a) Azure FIle
+- b) Azure CosmosDB
+- c) Azure Data Lake
+- d) Aure Queue
+- e) Azure Table
+- f) Azure Blob
+- g) Azure Databae Server
 
 Correct: A, D, E, F
