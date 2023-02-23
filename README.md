@@ -73,7 +73,7 @@
 - [Logging/Monitoring](/Documentation/storage_account_security_logging_monitoring.md)
 
 
-# Monitoring
+# Monitoring Concetps
 
 - [Azure Blob Storage Monitoring](/Documentation/storage_account_monitoring.md)
 
@@ -90,6 +90,38 @@
 - [Analyzing Logs](/Documentation/storage_account_monitoring_analyzing_logs.md)
 
 - [Alerts](/Documentation/storage_account_monitoring_alerts.md)
+
+# Monitoring Doing
+
+- [Best practices for monitoring Azure Blob Storage](/Documentation/monitor_scenarios_best_practices_1.md)
+
+- [Identify storage accounts with no or low use](/Documentation/monitor_scenarios_best_practices_2_identify_storage_accounts.md)
+
+- [Analyze transaction volume](/Documentation/monitor_scenarios_best_practices_3_analyze_transaction_volume.md)
+
+- [Analyze used capacity](/Documentation/monitor_scenarios_best_practices_4_analyze_used_capacity.md)
+
+- [Monitor the use of a container](/Documentation/monitor_scenarios_best_practices_5_monitor_container.md)
+
+- [Audit account activity](/Documentation/monitor_scenarios_best_practices_6_audit_account_activity.md)
+
+- [Monitoring your storage service with Azure Monitor Storage insights](/Documentation/monitor_scenarios_best_practices_azure_monitor_1_monitoring_your_storage.md)
+
+- [Introduction to Storage insights](/Documentation/monitor_scenarios_best_practices_azure_monitor_2_introduction.md)
+
+- [View from Azure Monitor](/Documentation/monitor_scenarios_best_practices_azure_monitor_3_view_from_azure_monitor.md)
+
+- [Overview workbook](/Documentation/monitor_scenarios_best_practices_azure_monitor_4_overview_workbook.md)
+
+- [Capacity workbook](/Documentation/monitor_scenarios_best_practices_azure_monitor_5_capacity_workbook.md)
+
+- [View from a storage account](/Documentation/monitor_scenarios_best_practices_azure_monitor_6_view_from_storage_account.md)
+
+- [Detailed storage workbooks](/Documentation/monitor_scenarios_best_practices_azure_monitor_7_detailed_storage_workbooks.md)
+
+- [Pin and export](/Documentation/monitor_scenarios_best_practices_azure_monitor_8_pin_export.md)
+
+- [Customize Storage insights](/Documentation/monitor_scenarios_best_practices_azure_monitor_9_customize_storage_insights.md)
 
 # DP-203 Test
 
